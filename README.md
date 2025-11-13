@@ -44,8 +44,10 @@ Submitted projects must be fully authored by the students and must not contain m
 | PL8 | 31/10/25  | Query execution. | [&#128462;](materials/lab5.pdf) |  
 | PL9 | 6/11/25  | Query execution (cont). |  |  
 | T7 | 7/11/25 | Query optimization. | [&#128462;](materials/2.4-opt.pdf) | R4 4
-| T6 | 13/11/25 | Distributed execution. |  | R4 3; R5  
-| T9 | 20/11/25 | Security. |  | 
+| T6 | 13/11/25 | Distributed execution. | [&#128462;](materials/2.5-par.pdf) | R4 3; R5  
+| PL10 |  | Distributed execution | [&#128462;](materials/lab6.pdf) |  
+| T7 | 20/11/25 | Orquestration. |  |   
+| T9 | 27/11/25 | Security. |  | 
 
 - Subject to change, watch Blackboard for notifications.
 - T - Lectures; PL - Labs.
