@@ -39,15 +39,15 @@ Submitted projects must be fully authored by the students and must not contain m
 | T4| 16/10/25 | File formats. | [&#128462;](materials/2.2-files.pdf) | R3
 | PL5 | 17/10/25  | Instance management (cont). |  |
 | PL6 | 23/10/25  | Storage and filess. | [&#128462;](materials/lab4.pdf) [(V)](materials/lab4/Vagrantfile) | 
-| PL7 | 23/10/25  | Storage and files (cont). |  | 
+| PL7 | 24/10/25  | Storage and files (cont). |  | 
 | T5 | 30/10/25 | Query execution. | [&#128462;](materials/2.3-exec.pdf) | R4 4
 | PL8 | 31/10/25  | Query execution. | [&#128462;](materials/lab5.pdf) |  
 | PL9 | 6/11/25  | Query execution (cont). |  |  
-| T7 | 7/11/25 | Query optimization. | [&#128462;](materials/2.4-opt.pdf) | R4 4
-| T6 | 13/11/25 | Distributed execution. | [&#128462;](materials/2.5-par.pdf) | R4 3; R5  
+| T6 | 7/11/25 | Query optimization. | [&#128462;](materials/2.4-opt.pdf) | R4 4
+| T7 | 13/11/25 | Distributed execution. | [&#128462;](materials/2.5-par.pdf) | R4 3; R5  
 | PL10 |  | Distributed execution | [&#128462;](materials/lab6.pdf) |  
-| T7 | 20/11/25 | Orquestration. |  |   
-| T9 | 27/11/25 | Security. |  | 
+| T8 | 20/11/25 | Security. |  | 
+| T9 | 27/11/25 | Cryptography. |  | 
 
 - Subject to change, watch Blackboard for notifications.
 - T - Lectures; PL - Labs.
