@@ -46,8 +46,12 @@ Submitted projects must be fully authored by the students and must not contain m
 | T6 | 7/11/25 | Query optimization. | [&#128462;](materials/2.4-opt.pdf) | R4 4
 | T7 | 13/11/25 | Distributed execution. | [&#128462;](materials/2.5-par.pdf) | R4 3; R5  
 | PL10 |  | Distributed execution | [&#128462;](materials/lab6.pdf) |  
-| T8 | 20/11/25 | Security. |  | 
-| T9 | 27/11/25 | Cryptography. |  | 
+| T8 | 20/11/25 | Security. | [&#128462;](materials/3.1-sec.pdf) | R6 1-3 
+| PL10 | 21/11/25 | Orquestration. |  |  
+| PL11 | 27/11/25 | Project. |  |  
+| PL12 | 28/11/25 | Project. |  |  
+| T9 | 4/12/25 | Cryptography. | | R6 14 
+| PL12 | 5/12/25 | Project. |  | 
 
 - Subject to change, watch Blackboard for notifications.
 - T - Lectures; PL - Labs.
@@ -61,10 +65,11 @@ Submitted projects must be fully authored by the students and must not contain m
 | R3 | Aditya Somani. [A Data Engineer's Guide to Columnar Storage](https://motherduck.com/learn-more/columnar-storage-guide/)
 | R4 | J. M. Hellerstein, M. Stonebraker, and J. Hamilton. [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) Foundations and Trends® in Databases, vol. 1, no. 2, pp. 141–259, 2007.
 | R5 | Jeffrey Dean and Sanjay Ghemawat. [MapReduce: Simplified Data Processing on Large Clusters](https://dl.acm.org/doi/pdf/10.1145/1327452.1327492), Comm. ACM, 2008.
+| R6 | Dieter Gollmann. Computer Security. Wiley, 2011.
 | A1 | J. Pereira. [Introdução ao Unix](materials/introunix.pdf) U. Minho, (2025).
 | A2 | Alex Braunton. Hands-On DevOps with Vagrant, Packt Publishing, 2018.
 | A3 | Mark Needham, Michael Hunger and Michael Simons. [DuckDB in Action](https://motherduck.com/duckdb-book-brief/) Manning, 2024.
-| A4 | Bas Harenslak and Julian de Ruiter. [Data Pipelines with Apache Airflow](https://www.astronomer.io/ebooks/data-pipelines-with-apache-airflow/). Manning, 2021.
+
 
 
 
