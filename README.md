@@ -47,7 +47,7 @@ Submitted projects must be fully authored by the students and must not contain m
 | T7 | 13/11/25 | Distributed execution. | [&#128462;](materials/2.5-par.pdf) | R4 3; R5  
 | PL10 |  | Distributed execution | [&#128462;](materials/lab6.pdf) |  
 | T8 | 20/11/25 | Security. | [&#128462;](materials/3.1-sec.pdf) | R6 1-3 
-| PL10 | 21/11/25 | Orquestration. |  |  
+| PL10 | 21/11/25 | Orquestration. | [&#128462;](materials/lab7.pdf) [(V)](materials/lab7/Vagrantfile) |  
 | PL11 | 27/11/25 | Project. |  |  
 | PL12 | 28/11/25 | Project. |  |  
 | T9 | 4/12/25 | Cryptography. | | R6 14 
