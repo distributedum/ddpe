@@ -51,7 +51,7 @@ Submitted projects must be fully authored by the students and must not contain m
 | PL11 | 27/11/25 | Project. |  |  
 | T9 | 4/12/25 | Cryptography. | [&#128462;](materials/3.2-crypto.pdf) | R6 14 
 | PL12 | 5/12/25 | Project. |  | 
-| T9 | 11/12/25 | Q&A. |  | 
+| T10 | 11/12/25 | Q&A. |  | 
 | PL12 | 12/12/25 | Project. |  | 
 
 - Subject to change, watch Blackboard for notifications.
