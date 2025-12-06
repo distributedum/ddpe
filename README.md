@@ -49,9 +49,10 @@ Submitted projects must be fully authored by the students and must not contain m
 | T8 | 20/11/25 | Security. | [&#128462;](materials/3.1-sec.pdf) | R6 1-3 
 | PL10 | 21/11/25 | Orquestration. | [&#128462;](materials/lab7.pdf) [(V)](materials/lab7/Vagrantfile) |  
 | PL11 | 27/11/25 | Project. |  |  
-| PL12 | 28/11/25 | Project. |  |  
-| T9 | 4/12/25 | Cryptography. | | R6 14 
+| T9 | 4/12/25 | Cryptography. | [&#128462;](materials/3.2-crypto.pdf) | R6 14 
 | PL12 | 5/12/25 | Project. |  | 
+| T9 | 11/12/25 | Q&A. |  | 
+| PL12 | 12/12/25 | Project. |  | 
 
 - Subject to change, watch Blackboard for notifications.
 - T - Lectures; PL - Labs.
