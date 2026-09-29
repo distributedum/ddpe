@@ -31,6 +31,8 @@ Submitted projects must be fully authored by the students and must not contain m
 |:-:|:----------:|:------|:------:|:-------:|
 | PL1 | 23/9/25  | Linux installation and basics. | [&#128462;](materials/lab0.pdf) | A1
 | T1 | 23/9/25 | Introduction. | [&#128462;](materials/0.1-basics.pdf) | 
+| PL2 | 30/9/25  | Scripts and images. | [&#128462;](materials/lab1.pdf) | 
+| T2 | 30/9/25 | Virtualization and cloud. | [&#128462;](materials/1.1-virt.pdf) | R1 1-5; R2 9,24
 
 ## Bibliography
 
