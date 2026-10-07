@@ -35,6 +35,7 @@ Submitted projects must be fully authored by the students and must not contain m
 | T2 |  | Virtualization and cloud. | [&#128462;](materials/1.1-virt.pdf) | R1 1-5; R2 9,24
 | PL3 | 7/10/25  | Infrastructure as code. | [&#128462;](materials/lab2.pdf) | 
 | T3 |  | Cloud setup. | [&#128462;](materials/cloudprotocol.pdf) |  
+| PL4 |  | Cloud access. | [&#128462;](materials/lab3.pdf) | 
 
 ## Bibliography
 
