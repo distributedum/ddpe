@@ -29,11 +29,11 @@ Submitted projects must be fully authored by the students and must not contain m
 
 | # | Date       | Topic | Mat.       | Read |
 |:-:|:----------:|:------|:------:|:-------:|
-| PL1 | 23/9/25  | Linux installation and basics. | [&#128462;](materials/lab0.pdf) | A1
+| PL1 | 23/9/26  | Linux installation and basics. | [&#128462;](materials/lab0.pdf) | A1
 | T1 |  | Introduction. | [&#128462;](materials/0.1-basics.pdf) | 
-| PL2 | 30/9/25  | Scripts and images. | [&#128462;](materials/lab1.pdf) | 
+| PL2 | 30/9/26  | Scripts and images. | [&#128462;](materials/lab1.pdf) | 
 | T2 |  | Virtualization and cloud. | [&#128462;](materials/1.1-virt.pdf) | R1 1-5; R2 9,24
-| PL3 | 7/10/25  | Infrastructure as code. | [&#128462;](materials/lab2.pdf) | 
+| PL3 | 7/10/26  | Infrastructure as code. | [&#128462;](materials/lab2.pdf) | 
 | T3 |  | Cloud setup. | [&#128462;](materials/cloudprotocol.pdf) |  
 | PL4 | 14/10/26 | Cloud access. | [&#128462;](materials/lab3.pdf) [(T)](materials/lab3/main.tf) | 
 | T4|  | Storage and files. | [&#128462;](materials/2.1-storage.pdf) [&#128462;](materials/2.2-files.pdf) | R2 20; R3

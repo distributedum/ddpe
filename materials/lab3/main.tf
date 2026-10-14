@@ -23,7 +23,7 @@ resource "google_compute_instance" "hello" {
   name = "adpd-hello"
 
   # Select hardware: an allocation from a catalogue, not a share of a host
-  machine_type = "e2-medium"
+  machine_type = "e2-micro"
 
   boot_disk {
     initialize_params {
