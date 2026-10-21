@@ -37,6 +37,9 @@ Submitted projects must be fully authored by the students and must not contain m
 | T3 |  | Cloud setup. | [&#128462;](materials/cloudprotocol.pdf) |  
 | PL4 | 14/10/26 | Cloud access. | [&#128462;](materials/lab3.pdf) [(T)](materials/lab3/main.tf) | 
 | T4|  | Storage and files. | [&#128462;](materials/2.1-storage.pdf) [&#128462;](materials/2.2-files.pdf) | R2 20; R3
+| PL5 | 21/10/26  | Storage and files. | [&#128462;](materials/lab4.pdf) [(Z))](materials/lab4-base.zip) | 
+| T5 |  | Query execution. | [&#128462;](materials/2.3-exec.pdf) | R4 4
+
 
 ## Bibliography
 
