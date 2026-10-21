@@ -6,3 +6,48 @@
 img[alt="Logo"] {
     width: 12em;
 }
+
+// File-type icons, drawn in the link color, replacing the text of links to
+// course materials (the text is clipped, so screen readers still announce it)
+a[href*="materials/"][href$=".pdf"],
+a[href*="materials/"][href$=".html"],
+a[href$=".zip"] {
+    display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    overflow: hidden;
+    white-space: nowrap;
+    vertical-align: -0.25em;
+}
+
+a[href*="materials/"][href$=".pdf"]::before,
+a[href*="materials/"][href$=".html"]::before,
+a[href$=".zip"]::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: currentColor;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+}
+
+a[href*="materials/"][href$=".pdf"]::before {
+    $icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z'/><path d='M14 2v6h6'/><path d='M8 13h8M8 17h8M8 9h2'/></svg>");
+    -webkit-mask-image: $icon;
+    mask-image: $icon;
+}
+
+a[href$=".zip"]::before {
+    $icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z'/><path d='M14 2v6h6'/><path d='M10 4h1M10 7h1M10 10h1M10 13h1'/><rect x='9' y='15' width='3' height='4' rx='1'/></svg>");
+    -webkit-mask-image: $icon;
+    mask-image: $icon;
+}
+
+a[href*="materials/"][href$=".html"]::before {
+    $icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='10'/><path d='M10 8l6 4-6 4z'/></svg>");
+    -webkit-mask-image: $icon;
+    mask-image: $icon;
+}
