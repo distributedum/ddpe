@@ -39,7 +39,8 @@ Submitted projects must be fully authored by the students and must not contain m
 | T4|  | Storage and files. | [pdf](materials/2.1-storage.pdf) [pdf](materials/2.2-files.pdf) | R2 20; R3
 | PL5 | 21/10/26  | Storage and files. | [pdf](materials/lab4.pdf) [zip](materials/lab4-base.zip) | 
 | T5 |  | Query execution. | [pdf](materials/2.3-exec.pdf) | R4 4
-
+| PL6 | 21/10/26  | Storage and files. | (cont.) | 
+| T6 | 7/11/25 | Query optimization. | [&#128462;](materials/2.4-opt.pdf) | R4 4
 
 ## Bibliography
 
